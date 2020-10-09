@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to DONKEY
 
 You can use the [editor on GitHub](https://github.com/ihavea22doneky/donkey1009/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
